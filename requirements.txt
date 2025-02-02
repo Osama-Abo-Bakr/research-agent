@@ -1,0 +1,4 @@
+semanticscholar
+python-dotenv
+langchain
+langchain_groq
